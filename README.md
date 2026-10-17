@@ -12,6 +12,14 @@
 
 I build tools for Discord communities and Minecraft. Bots, dashboards, and mods — from an idea to something people can actually use.
 
+### How I build
+
+<img src="assets/how-i-build.svg" alt="How I build: idea and spec, build the project, test and polish, then ship bots, sites and mods." width="100%" />
+
+### Languages
+
+<img src="assets/languages.svg" alt="HTML and Java" width="100%" />
+
 ### Selected work
 
 <table>
