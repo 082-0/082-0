@@ -1,26 +1,40 @@
 <div align="center">
 
-# 08 / 082_0
+<img src="assets/banner.svg" alt="08 — Discord bots, dashboards and Minecraft mods. Midnight purple." width="100%" />
 
-**Discord bots · Web dashboards · Minecraft mods**
+<br />
 
-I build tools for Discord communities and Minecraft.
-
-[Projects](https://github.com/082-0?tab=projects) · [Repositories](https://github.com/082-0?tab=repositories) · Discord: `082_0`
+<a href="https://github.com/082-0?tab=repositories">Repositories</a> &nbsp;·&nbsp; Discord: <code>082_0</code>
 
 </div>
 
----
+<br />
 
-## Projects
+I build tools for Discord communities and Minecraft. Bots, dashboards, and mods — from an idea to something people can actually use.
 
-- **[09 Staff Tracker](https://github.com/082-0/midnight-staff-tracker-showcase)** — Discord staff activity, points, leaderboards, and a private server dashboard.
-- **[07 Community Bot](https://github.com/082-0/07-bot-showcase)** — Community tools for moderation, tickets, roles, verification, and XP.
-- **[DropScale](https://github.com/082-0/DropScale)** — Customize the size and glint of dropped Minecraft items.
-- **[Cobweb Placement Optimizer](https://github.com/082-0/cobweb-placement-optimizer)** — Quick cobweb placement with configurable controls and appearance.
+### Selected work
 
----
+<table>
+  <tr>
+    <td width="50%"><a href="https://github.com/082-0/midnight-staff-tracker-showcase"><img src="assets/cards/staff-tracker.svg" alt="09 Staff Tracker — Staff activity, points and leaderboards." width="100%" /></a></td>
+    <td width="50%"><a href="https://github.com/082-0/07-bot-showcase"><img src="assets/cards/community-bot.svg" alt="07 Community Bot — Moderation, tickets, roles and verification." width="100%" /></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://github.com/082-0/DropScale"><img src="assets/cards/dropscale.svg" alt="DropScale — Custom dropped-item sizes and glint." width="100%" /></a></td>
+    <td width="50%"><a href="https://github.com/082-0/cobweb-placement-optimizer"><img src="assets/cards/cobweb.svg" alt="Cobweb Placement Optimizer — Quick placement with configurable controls" width="100%" /></a></td>
+  </tr>
+</table>
 
-**Contact:** `082_0` on Discord · 09 is used by [Midnight Community](https://discord.gg/midnightt)
+<br />
 
-*Bot showcases use demo data; private bot source and server records stay private.*
+**What I work on** &nbsp; `Discord automation` · `Web dashboards` · `Fabric mods` · `Community tools`
+
+**Contact** &nbsp; `082_0` on Discord
+
+<sub>Bot showcases use demo data. Private bot source and server records stay private.</sub>
+
+<br />
+
+### After hours
+
+<img src="https://raw.githubusercontent.com/082-0/082-0/output/github-snake.svg" alt="A purple snake moving through my GitHub contributions" width="100%" />

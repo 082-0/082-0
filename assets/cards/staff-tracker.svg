@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="192" viewBox="0 0 460 192" role="img">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0c0915"/><stop offset="1" stop-color="#1b1033"/></linearGradient><linearGradient id="ink" x2="1" y2="1"><stop stop-color="#faf7ff"/><stop offset="1" stop-color="#a78bfa"/></linearGradient><radialGradient id="glow"><stop stop-color="#7c3aed" stop-opacity=".45"/><stop offset="1" stop-color="#7c3aed" stop-opacity="0"/></radialGradient></defs>
+<rect x=".5" y=".5" width="459" height="191" rx="18" fill="url(#bg)" stroke="#392652"/>
+<g font-family="Segoe UI,Arial,sans-serif"><circle cx="400" cy="5" r="160" fill="url(#glow)"/>
+<rect x="24" y="23" width="40" height="40" rx="11" fill="#281943" stroke="#63408d"/>
+<text x="44" y="49" text-anchor="middle" fill="#d9c6ff" font-size="15" font-weight="700">09</text>
+<text x="78" y="39" fill="#aa90c8" font-size="9" letter-spacing="1.6">DISCORD / DASHBOARD</text>
+<text x="78" y="59" fill="#f2eaff" font-size="17" font-weight="650">09 Staff Tracker</text>
+<text x="24" y="100" fill="#bfb0d1" font-size="13">Staff activity, points and leaderboards.</text>
+<text x="24" y="121" fill="#bfb0d1" font-size="13">One place to manage the team.</text>
+<path d="M24 144 H436" stroke="#362247"/>
+<text x="24" y="170" fill="#bca1e5" font-size="10" letter-spacing="1.5">VIEW PROJECT</text><text x="433" y="172" text-anchor="end" fill="#c4a4ff" font-size="20">↗</text></g></svg>
