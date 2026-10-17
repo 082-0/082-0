@@ -14,7 +14,7 @@ I build tools for Discord communities and Minecraft. Bots, dashboards, and mods 
 
 ### How I build
 
-<img src="assets/how-i-build.svg" alt="How I build: concept and prompt, build together with Codex, test and polish, then ship bots, sites and mods." width="100%" />
+<img src="assets/how-i-build-codex.svg" alt="How I build: concept and prompt, build together with Codex, test and polish, then ship bots, sites and mods." width="100%" />
 
 ### Languages
 
