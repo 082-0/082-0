@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="180" viewBox="0 0 1000 180" role="img" aria-labelledby="title desc">
-<title id="title">How I build</title><desc id="desc">Four steps: idea and spec, build, test and polish, ship.</desc>
+<title id="title">How I build</title><desc id="desc">Four steps: concept and prompt, build together with Codex, test and polish, ship.</desc>
 <rect x="1" y="1" width="998" height="178" rx="18" fill="#08060e" stroke="#392652"/>
 <text x="28" y="31" fill="#bca1e5" font-family="Consolas,monospace" font-size="13" letter-spacing="3">HOW I BUILD</text>
 <path d="M246 107 H274 M482 107 H510 M718 107 H746" fill="none" stroke="#795ba5" stroke-width="2" stroke-dasharray="4 7"/>
 <g font-family="Consolas,monospace">
-  <g><rect x="28" y="60" width="218" height="94" rx="11" fill="#100a1a" stroke="#67439a"/><text x="48" y="89" fill="#c4b5fd" font-size="13" font-weight="700">01 · IDEA</text><text x="48" y="121" fill="#faf7ff" font-size="17" font-weight="700">Concept &amp; spec</text></g>
-  <g><rect x="274" y="60" width="208" height="94" rx="11" fill="#100a1a" stroke="#67439a"/><text x="294" y="89" fill="#c4b5fd" font-size="13" font-weight="700">02 · BUILD</text><text x="294" y="121" fill="#faf7ff" font-size="17" font-weight="700">Make it real</text></g>
+  <g><rect x="28" y="60" width="218" height="94" rx="11" fill="#100a1a" stroke="#67439a"/><text x="48" y="89" fill="#c4b5fd" font-size="13" font-weight="700">01 · CONCEPT</text><text x="48" y="121" fill="#faf7ff" font-size="17" font-weight="700">Prompt &amp; spec</text></g>
+  <g><rect x="274" y="60" width="208" height="94" rx="11" fill="#100a1a" stroke="#67439a"/><text x="294" y="89" fill="#c4b5fd" font-size="13" font-weight="700">02 · CODEX</text><text x="294" y="121" fill="#faf7ff" font-size="17" font-weight="700">Build together</text></g>
   <g><rect x="510" y="60" width="208" height="94" rx="11" fill="#100a1a" stroke="#67439a"/><text x="530" y="89" fill="#c4b5fd" font-size="13" font-weight="700">03 · REFINE</text><text x="530" y="121" fill="#faf7ff" font-size="17" font-weight="700">Test &amp; polish</text></g>
   <g><rect x="746" y="60" width="226" height="94" rx="11" fill="#100a1a" stroke="#67439a"/><text x="766" y="89" fill="#c4b5fd" font-size="13" font-weight="700">04 · SHIP</text><text x="766" y="121" fill="#faf7ff" font-size="17" font-weight="700">Bots · sites · mods</text></g>
 </g>
