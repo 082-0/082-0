@@ -29,7 +29,7 @@ I build tools for Discord communities and Minecraft. Bots, dashboards, and mods 
   </tr>
   <tr>
     <td width="50%"><a href="https://github.com/082-0/DropScale"><img src="assets/cards/dropscale.svg" alt="DropScale — Custom dropped-item sizes and glint." width="100%" /></a></td>
-    <td width="50%"><a href="https://github.com/082-0/cobweb-placement-optimizer"><img src="assets/cards/cobweb.svg" alt="Cobweb Placement Optimizer — Quick placement with configurable controls" width="100%" /></a></td>
+    <td width="50%"><a href="https://github.com/082-0/08-codex-rpc"><img src="assets/cards/codex-rpc.svg" alt="08 Codex RPC — Show your Codex chat and model on Discord" width="100%" /></a></td>
   </tr>
 </table>
 
