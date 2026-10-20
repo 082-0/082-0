@@ -2,7 +2,7 @@
   <title id="title">OMP Presence</title>
   <desc id="desc">Show OMP activity on Discord. Windows v7 download available.</desc>
   <defs>
-    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0c0915"/><stop offset="1" stop-color="#1b1033"/></linearGradient>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#050508"/><stop offset="1" stop-color="#11091f"/></linearGradient>
     <radialGradient id="glow"><stop stop-color="#7c3aed" stop-opacity=".45"/><stop offset="1" stop-color="#7c3aed" stop-opacity="0"/></radialGradient>
   </defs>
   <rect x=".5" y=".5" width="459" height="191" rx="18" fill="url(#bg)" stroke="#392652"/>

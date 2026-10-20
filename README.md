@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="08 — Discord bots, dashboards and Minecraft mods. Midnight purple." width="100%" />
+<img src="assets/banner.svg" alt="08 — I'm just a vibe coder making random shit. Black and purple banner." width="100%" />
 
 <br />
 
@@ -10,7 +10,7 @@
 
 <br />
 
-I build tools for Discord communities and Minecraft. Bots, dashboards, mods, and desktop apps start as things I want to use myself.
+I'm just a vibe coder making random shit. Mostly Discord tools, desktop apps, and Minecraft mods.
 
 ### My setup
 
