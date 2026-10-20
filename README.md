@@ -10,7 +10,11 @@
 
 <br />
 
-I build tools for Discord communities and Minecraft. Bots, dashboards, and mods — from an idea to something people can actually use.
+I build tools for Discord communities and Minecraft. Bots, dashboards, mods, and desktop apps start as things I want to use myself.
+
+### My setup
+
+I work with **Codex, OMP, and Tern**. I use that setup to turn an idea into code, test it, and keep improving what I ship. [OMP Presence](https://github.com/082-0/omp-presence) shares my OMP work on Discord. [08 Codex RPC](https://github.com/082-0/08-codex-rpc) does the same for Codex.
 
 ### Languages
 
@@ -20,18 +24,22 @@ I build tools for Discord communities and Minecraft. Bots, dashboards, and mods 
 
 <table>
   <tr>
-    <td width="50%"><a href="https://github.com/082-0/midnight-staff-tracker-showcase"><img src="assets/cards/staff-tracker.svg" alt="09 Staff Tracker — Staff activity, points and leaderboards." width="100%" /></a></td>
-    <td width="50%"><a href="https://github.com/082-0/07-bot-showcase"><img src="assets/cards/community-bot.svg" alt="07 Community Bot — Moderation, tickets, roles and verification." width="100%" /></a></td>
+    <td width="50%"><a href="https://github.com/082-0/omp-presence"><img src="assets/cards/omp-presence.svg" alt="OMP Presence: share OMP project and model on Discord. Windows v7 is available." width="100%" /></a></td>
+    <td width="50%"><a href="https://github.com/082-0/08-codex-rpc"><img src="assets/cards/codex-rpc.svg" alt="08 Codex RPC: show your Codex chat and model on Discord." width="100%" /></a></td>
   </tr>
   <tr>
-    <td width="50%"><a href="https://github.com/082-0/DropScale"><img src="assets/cards/dropscale.svg" alt="DropScale — Custom dropped-item sizes and glint." width="100%" /></a></td>
-    <td width="50%"><a href="https://github.com/082-0/08-codex-rpc"><img src="assets/cards/codex-rpc.svg" alt="08 Codex RPC — Show your Codex chat and model on Discord" width="100%" /></a></td>
+    <td width="50%"><a href="https://github.com/082-0/midnight-staff-tracker-showcase"><img src="assets/cards/staff-tracker.svg" alt="09 Staff Tracker: staff activity, points and leaderboards." width="100%" /></a></td>
+    <td width="50%"><a href="https://github.com/082-0/07-bot-showcase"><img src="assets/cards/community-bot.svg" alt="07 Community Bot: moderation, tickets, roles and verification." width="100%" /></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://github.com/082-0/DropScale"><img src="assets/cards/dropscale.svg" alt="DropScale: custom dropped-item sizes and glint." width="100%" /></a></td>
+    <td width="50%"><a href="https://github.com/082-0/cobweb-placement-optimizer"><img src="assets/cards/cobweb.svg" alt="Cobweb Placement Optimizer: configurable placement controls and colors." width="100%" /></a></td>
   </tr>
 </table>
 
 <br />
 
-**What I work on** &nbsp; `Discord automation` · `Web dashboards` · `Fabric mods` · `Community tools`
+**What I work on** &nbsp; `Discord automation` · `Desktop tools` · `Web dashboards` · `Fabric mods`
 
 **Contact** &nbsp; `082_0` on Discord
 
