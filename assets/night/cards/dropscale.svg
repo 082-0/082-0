@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="210" viewBox="0 0 460 210" role="img" aria-labelledby="c27t c27d">
+<title id="c27t">DropScale 落</title><desc id="c27d">Custom size and glint for dropped items. Client-side · Minecraft 1.21.11 to 26.3.</desc>
+<defs>
+  <linearGradient id="c27sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#040307"/><stop offset=".6" stop-color="#0d0817"/><stop offset="1" stop-color="#1a102e"/></linearGradient>
+  <radialGradient id="c27moonGlow"><stop offset="0" stop-color="#cbbcf0" stop-opacity=".22"/><stop offset="1" stop-color="#cbbcf0" stop-opacity="0"/></radialGradient>
+  <radialGradient id="c27moon" cx=".4" cy=".36"><stop offset="0" stop-color="#f1eef6"/><stop offset="1" stop-color="#cfc8de"/></radialGradient>
+  <linearGradient id="c27rule" gradientUnits="userSpaceOnUse" x1="0" x2="1000" y1="0" y2="0"><stop offset="0" stop-color="#7b5cc4" stop-opacity="0"/><stop offset=".5" stop-color="#7b5cc4" stop-opacity=".7"/><stop offset="1" stop-color="#7b5cc4" stop-opacity="0"/></linearGradient>
+  <g id="c27bloom"><path d="M0 0 C-5 -3 -7 -10 -2.8 -14 L0 -12 L2.8 -14 C7 -10 5 -3 0 0Z" transform="rotate(0)" fill="#ddd3ea"/><path d="M0 0 C-5 -3 -7 -10 -2.8 -14 L0 -12 L2.8 -14 C7 -10 5 -3 0 0Z" transform="rotate(72)" fill="#ddd3ea"/><path d="M0 0 C-5 -3 -7 -10 -2.8 -14 L0 -12 L2.8 -14 C7 -10 5 -3 0 0Z" transform="rotate(144)" fill="#ddd3ea"/><path d="M0 0 C-5 -3 -7 -10 -2.8 -14 L0 -12 L2.8 -14 C7 -10 5 -3 0 0Z" transform="rotate(216)" fill="#ddd3ea"/><path d="M0 0 C-5 -3 -7 -10 -2.8 -14 L0 -12 L2.8 -14 C7 -10 5 -3 0 0Z" transform="rotate(288)" fill="#ddd3ea"/><circle r="2.4" fill="#4a3a6a"/></g>
+  <path id="c27loose" d="M0 -6 C4 -5 5 2 0 6 C-5 2 -4 -5 0 -6Z" fill="#cfc3e0"/>
+</defs>
+<style>
+  .fall{transform-box:fill-box;transform-origin:center;animation:fall var(--d) linear infinite;animation-delay:var(--s);opacity:0}
+  @keyframes fall{0%{transform:translate(0,0) rotate(0deg);opacity:0}10%{opacity:.7}85%{opacity:.6}100%{transform:translate(var(--x),var(--y)) rotate(var(--r));opacity:0}}
+  .tw{animation:tw var(--d) ease-in-out infinite;animation-delay:var(--s)}
+  @keyframes tw{0%,100%{opacity:.15}50%{opacity:.75}}
+  @media (prefers-reduced-motion:reduce){.fall,.tw{animation:none}.fall{opacity:.55}}
+</style>
+<clipPath id="c27clip"><rect width="460" height="210" rx="12"/></clipPath>
+<g clip-path="url(#c27clip)">
+<rect width="460" height="210" fill="url(#c27sky)"/>
+<circle class="tw" cx="286.7" cy="91.7" r="0.68" fill="#e9e3f5" style="--d:7.3s;--s:-3.0s"/><circle class="tw" cx="416.3" cy="123.7" r="0.74" fill="#e9e3f5" style="--d:5.2s;--s:-1.1s"/><circle class="tw" cx="240.9" cy="28.7" r="1.29" fill="#e9e3f5" style="--d:6.9s;--s:-1.4s"/><circle class="tw" cx="252.8" cy="106.2" r="1.05" fill="#e9e3f5" style="--d:6.2s;--s:-4.7s"/><circle class="tw" cx="272.4" cy="93.0" r="0.85" fill="#e9e3f5" style="--d:4.9s;--s:-1.5s"/><circle class="tw" cx="274.7" cy="20.8" r="0.69" fill="#e9e3f5" style="--d:5.6s;--s:-6.4s"/><circle class="tw" cx="277.9" cy="26.5" r="0.74" fill="#e9e3f5" style="--d:7.7s;--s:-5.8s"/><circle class="tw" cx="354.1" cy="92.9" r="0.73" fill="#e9e3f5" style="--d:5.2s;--s:-4.2s"/><circle class="tw" cx="230.6" cy="13.3" r="1.03" fill="#e9e3f5" style="--d:8.2s;--s:-3.1s"/><circle class="tw" cx="262.3" cy="102.6" r="0.82" fill="#e9e3f5" style="--d:5.7s;--s:-0.6s"/><circle class="tw" cx="306.1" cy="47.2" r="0.64" fill="#e9e3f5" style="--d:6.8s;--s:-3.5s"/><circle class="tw" cx="394.6" cy="60.3" r="1.05" fill="#e9e3f5" style="--d:5.4s;--s:-7.2s"/>
+<text x="438" y="184" text-anchor="end" font-family="'Noto Serif JP','Yu Mincho','Hiragino Mincho ProN','MS Mincho',serif" font-size="110" fill="#ece6f4" opacity=".06">落</text>
+<g><path d="M467.0 -7.0 C425.0 17.0 385.0 11.0 351.0 32.0 C327.0 47.0 308.0 44.0 280.0 59.0" fill="none" stroke="#2c2140" stroke-width="4" stroke-linecap="round"/><path d="M398.0 17.0 C384.0 33.0 390.0 49.0 375.0 66.0" fill="none" stroke="#2c2140" stroke-width="1.5" stroke-linecap="round"/><path d="M351.0 32.0 C340.0 21.0 329.0 17.0 315.0 10.0" fill="none" stroke="#2c2140" stroke-width="1.5" stroke-linecap="round"/><path d="M308.0 46.0 C301.0 61.0 307.0 75.0 295.0 88.0" fill="none" stroke="#2c2140" stroke-width="1.5" stroke-linecap="round"/><use href="#c27bloom" transform="translate(280.0 59.0) scale(0.50) rotate(18)" opacity=".9"/><use href="#c27bloom" transform="translate(315.0 10.0) scale(0.42) rotate(65)" opacity=".9"/><use href="#c27bloom" transform="translate(375.0 66.0) scale(0.53) rotate(49)" opacity=".9"/><use href="#c27bloom" transform="translate(295.0 88.0) scale(0.40) rotate(53)" opacity=".9"/><use href="#c27bloom" transform="translate(344.0 30.0) scale(0.35) rotate(51)" opacity=".9"/><use href="#c27bloom" transform="translate(425.0 15.0) scale(0.38) rotate(22)" opacity=".9"/><use href="#c27bloom" transform="translate(386.0 48.0) scale(0.30) rotate(61)" opacity=".9"/></g>
+<g transform="translate(287 3) scale(0.97)"><use href="#c27loose" class="fall" style="--x:-308px;--y:242px;--r:365deg;--d:12.1s;--s:-17.2s"/></g><g transform="translate(411 18) scale(0.76)"><use href="#c27loose" class="fall" style="--x:-263px;--y:252px;--r:303deg;--d:13.5s;--s:-7.7s"/></g><g transform="translate(370 42) scale(1.07)"><use href="#c27loose" class="fall" style="--x:-125px;--y:238px;--r:366deg;--d:17.8s;--s:-9.8s"/></g>
+<rect width="3" height="210" fill="#7b5cc4" opacity=".8"/>
+</g>
+<rect x=".5" y=".5" width="459" height="209" rx="12" fill="none" stroke="#271d3a"/>
+<g font-family="'Segoe UI','gg sans','Noto Sans',Arial,sans-serif">
+  <text x="26" y="40" fill="#655c7a" font-size="10" letter-spacing="2.6">FABRIC MOD</text>
+  <text x="26" y="73" fill="#ece6f4" font-size="24" font-weight="700">DropScale</text>
+  <g transform="translate(162.60800000000003 53) rotate(-3)"><rect width="24" height="24" rx="2.4000000000000004" fill="#a3122f"/><rect x="2.16" y="2.16" width="19.68" height="19.68" rx="1.44" fill="none" stroke="#f3dfe3" stroke-opacity=".55" stroke-width="1"/><text x="12" y="17.28" text-anchor="middle" font-family="'Noto Serif JP','Yu Mincho','Hiragino Mincho ProN','MS Mincho',serif" font-weight="700" font-size="14.879999999999999" fill="#f8eef0">落</text></g>
+  <text x="26" y="94" fill="#655c7a" font-size="10.5" letter-spacing="2.4">OCHI · THE DROP</text>
+  <text x="26" y="124" fill="#9d92b3" font-size="13.5">Custom size and glint for dropped items.</text><text x="26" y="144" fill="#9d92b3" font-size="13.5">Client-side · Minecraft 1.21.11 to 26.3.</text>
+  <rect x="26" y="168" width="408" height="1" fill="#271d3a"/>
+  <text x="26" y="192" fill="#b3a0d8" font-size="10" letter-spacing="2.6">VIEW PROJECT</text>
+  <text x="434" y="194" text-anchor="end" fill="#b3a0d8" font-size="16">→</text>
+</g>
+</svg>

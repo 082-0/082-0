@@ -16,12 +16,12 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - name: Generate midnight purple snake
+      - name: Generate night-ink snake
         uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg?color_snake=#c4b5fd&color_dots=#16101f,#35204f,#633597,#9560ce,#c4b5fd
+            dist/github-snake.svg?color_snake=#ddd3ea&color_dots=#0d0817,#2c2140,#4a3a6a,#7b5cc4,#b3a0d8
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Publish generated SVG

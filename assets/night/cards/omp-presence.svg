@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="210" viewBox="0 0 460 210" role="img" aria-labelledby="c25t c25d">
+<title id="c25t">OMP Presence 存在</title><desc id="c25d">Your OMP project and model on Discord. Windows v7 · macOS and Linux planned.</desc>
+<defs>
+  <linearGradient id="c25sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#040307"/><stop offset=".6" stop-color="#0d0817"/><stop offset="1" stop-color="#1a102e"/></linearGradient>
+  <radialGradient id="c25moonGlow"><stop offset="0" stop-color="#cbbcf0" stop-opacity=".22"/><stop offset="1" stop-color="#cbbcf0" stop-opacity="0"/></radialGradient>
+  <radialGradient id="c25moon" cx=".4" cy=".36"><stop offset="0" stop-color="#f1eef6"/><stop offset="1" stop-color="#cfc8de"/></radialGradient>
+  <linearGradient id="c25rule" gradientUnits="userSpaceOnUse" x1="0" x2="1000" y1="0" y2="0"><stop offset="0" stop-color="#7b5cc4" stop-opacity="0"/><stop offset=".5" stop-color="#7b5cc4" stop-opacity=".7"/><stop offset="1" stop-color="#7b5cc4" stop-opacity="0"/></linearGradient>
+  <g id="c25bloom"><path d="M0 0 C-5 -3 -7 -10 -2.8 -14 L0 -12 L2.8 -14 C7 -10 5 -3 0 0Z" transform="rotate(0)" fill="#ddd3ea"/><path d="M0 0 C-5 -3 -7 -10 -2.8 -14 L0 -12 L2.8 -14 C7 -10 5 -3 0 0Z" transform="rotate(72)" fill="#ddd3ea"/><path d="M0 0 C-5 -3 -7 -10 -2.8 -14 L0 -12 L2.8 -14 C7 -10 5 -3 0 0Z" transform="rotate(144)" fill="#ddd3ea"/><path d="M0 0 C-5 -3 -7 -10 -2.8 -14 L0 -12 L2.8 -14 C7 -10 5 -3 0 0Z" transform="rotate(216)" fill="#ddd3ea"/><path d="M0 0 C-5 -3 -7 -10 -2.8 -14 L0 -12 L2.8 -14 C7 -10 5 -3 0 0Z" transform="rotate(288)" fill="#ddd3ea"/><circle r="2.4" fill="#4a3a6a"/></g>
+  <path id="c25loose" d="M0 -6 C4 -5 5 2 0 6 C-5 2 -4 -5 0 -6Z" fill="#cfc3e0"/>
+</defs>
+<style>
+  .fall{transform-box:fill-box;transform-origin:center;animation:fall var(--d) linear infinite;animation-delay:var(--s);opacity:0}
+  @keyframes fall{0%{transform:translate(0,0) rotate(0deg);opacity:0}10%{opacity:.7}85%{opacity:.6}100%{transform:translate(var(--x),var(--y)) rotate(var(--r));opacity:0}}
+  .tw{animation:tw var(--d) ease-in-out infinite;animation-delay:var(--s)}
+  @keyframes tw{0%,100%{opacity:.15}50%{opacity:.75}}
+  @media (prefers-reduced-motion:reduce){.fall,.tw{animation:none}.fall{opacity:.55}}
+</style>
+<clipPath id="c25clip"><rect width="460" height="210" rx="12"/></clipPath>
+<g clip-path="url(#c25clip)">
+<rect width="460" height="210" fill="url(#c25sky)"/>
+<circle class="tw" cx="286.5" cy="68.8" r="1.24" fill="#e9e3f5" style="--d:7.0s;--s:-0.4s"/><circle class="tw" cx="302.4" cy="15.1" r="0.89" fill="#e9e3f5" style="--d:5.1s;--s:-0.1s"/><circle class="tw" cx="262.2" cy="108.1" r="0.43" fill="#e9e3f5" style="--d:7.4s;--s:-5.7s"/><circle class="tw" cx="268.4" cy="67.6" r="1.02" fill="#e9e3f5" style="--d:8.2s;--s:-6.5s"/><circle class="tw" cx="414.5" cy="77.2" r="0.54" fill="#e9e3f5" style="--d:4.2s;--s:-7.6s"/><circle class="tw" cx="301.5" cy="121.8" r="1.11" fill="#e9e3f5" style="--d:7.5s;--s:-4.5s"/><circle class="tw" cx="237.6" cy="113.4" r="0.81" fill="#e9e3f5" style="--d:6.7s;--s:-7.4s"/><circle class="tw" cx="389.6" cy="3.0" r="1.05" fill="#e9e3f5" style="--d:6.2s;--s:-1.8s"/><circle class="tw" cx="353.7" cy="41.1" r="0.93" fill="#e9e3f5" style="--d:7.6s;--s:-1.4s"/><circle class="tw" cx="262.7" cy="2.5" r="1.28" fill="#e9e3f5" style="--d:7.7s;--s:-3.0s"/><circle class="tw" cx="447.7" cy="82.5" r="0.55" fill="#e9e3f5" style="--d:9.0s;--s:-6.9s"/><circle class="tw" cx="435.5" cy="69.0" r="0.94" fill="#e9e3f5" style="--d:7.4s;--s:-4.9s"/>
+<text x="438" y="184" text-anchor="end" font-family="'Noto Serif JP','Yu Mincho','Hiragino Mincho ProN','MS Mincho',serif" font-size="110" fill="#ece6f4" opacity=".06">存在</text>
+<g><path d="M467.0 -7.0 C425.0 17.0 385.0 11.0 351.0 32.0 C327.0 47.0 308.0 44.0 280.0 59.0" fill="none" stroke="#2c2140" stroke-width="4" stroke-linecap="round"/><path d="M398.0 17.0 C384.0 33.0 390.0 49.0 375.0 66.0" fill="none" stroke="#2c2140" stroke-width="1.5" stroke-linecap="round"/><path d="M351.0 32.0 C340.0 21.0 329.0 17.0 315.0 10.0" fill="none" stroke="#2c2140" stroke-width="1.5" stroke-linecap="round"/><path d="M308.0 46.0 C301.0 61.0 307.0 75.0 295.0 88.0" fill="none" stroke="#2c2140" stroke-width="1.5" stroke-linecap="round"/><use href="#c25bloom" transform="translate(280.0 59.0) scale(0.50) rotate(18)" opacity=".9"/><use href="#c25bloom" transform="translate(315.0 10.0) scale(0.42) rotate(52)" opacity=".9"/><use href="#c25bloom" transform="translate(375.0 66.0) scale(0.53) rotate(22)" opacity=".9"/><use href="#c25bloom" transform="translate(295.0 88.0) scale(0.40) rotate(48)" opacity=".9"/><use href="#c25bloom" transform="translate(344.0 30.0) scale(0.35) rotate(27)" opacity=".9"/><use href="#c25bloom" transform="translate(425.0 15.0) scale(0.38) rotate(58)" opacity=".9"/><use href="#c25bloom" transform="translate(386.0 48.0) scale(0.30) rotate(71)" opacity=".9"/></g>
+<g transform="translate(287 55) scale(0.78)"><use href="#c25loose" class="fall" style="--x:-291px;--y:222px;--r:216deg;--d:13.2s;--s:-2.2s"/></g><g transform="translate(407 11) scale(0.80)"><use href="#c25loose" class="fall" style="--x:-182px;--y:255px;--r:332deg;--d:17.9s;--s:-9.0s"/></g><g transform="translate(300 40) scale(0.77)"><use href="#c25loose" class="fall" style="--x:-175px;--y:215px;--r:328deg;--d:15.1s;--s:-7.2s"/></g>
+<rect width="3" height="210" fill="#7b5cc4" opacity=".8"/>
+</g>
+<rect x=".5" y=".5" width="459" height="209" rx="12" fill="none" stroke="#271d3a"/>
+<g font-family="'Segoe UI','gg sans','Noto Sans',Arial,sans-serif">
+  <text x="26" y="40" fill="#655c7a" font-size="10" letter-spacing="2.6">DESKTOP APP</text>
+  <text x="26" y="73" fill="#ece6f4" font-size="24" font-weight="700">OMP Presence</text>
+  <g transform="translate(211.184 53) rotate(-3)"><rect width="24" height="24" rx="2.4000000000000004" fill="#a3122f"/><rect x="2.16" y="2.16" width="19.68" height="19.68" rx="1.44" fill="none" stroke="#f3dfe3" stroke-opacity=".55" stroke-width="1"/><text x="12" y="17.28" text-anchor="middle" font-family="'Noto Serif JP','Yu Mincho','Hiragino Mincho ProN','MS Mincho',serif" font-weight="700" font-size="14.879999999999999" fill="#f8eef0">在</text></g>
+  <text x="26" y="94" fill="#655c7a" font-size="10.5" letter-spacing="2.4">SONZAI · PRESENCE</text>
+  <text x="26" y="124" fill="#9d92b3" font-size="13.5">Your OMP project and model on Discord.</text><text x="26" y="144" fill="#9d92b3" font-size="13.5">Windows v7 · macOS and Linux planned.</text>
+  <rect x="26" y="168" width="408" height="1" fill="#271d3a"/>
+  <text x="26" y="192" fill="#b3a0d8" font-size="10" letter-spacing="2.6">VIEW PROJECT</text>
+  <text x="434" y="194" text-anchor="end" fill="#b3a0d8" font-size="16">→</text>
+</g>
+</svg>

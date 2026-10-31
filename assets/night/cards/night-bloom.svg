@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="210" viewBox="0 0 460 210" role="img" aria-labelledby="c22t c22d">
+<title id="c22t">Night Bloom 夜咲き</title><desc id="c22d">Staff points, activity and leaderboards, with a private control room.</desc>
+<defs>
+  <linearGradient id="c22sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#040307"/><stop offset=".6" stop-color="#0d0817"/><stop offset="1" stop-color="#1a102e"/></linearGradient>
+  <radialGradient id="c22moonGlow"><stop offset="0" stop-color="#cbbcf0" stop-opacity=".22"/><stop offset="1" stop-color="#cbbcf0" stop-opacity="0"/></radialGradient>
+  <radialGradient id="c22moon" cx=".4" cy=".36"><stop offset="0" stop-color="#f1eef6"/><stop offset="1" stop-color="#cfc8de"/></radialGradient>
+  <linearGradient id="c22rule" gradientUnits="userSpaceOnUse" x1="0" x2="1000" y1="0" y2="0"><stop offset="0" stop-color="#7b5cc4" stop-opacity="0"/><stop offset=".5" stop-color="#7b5cc4" stop-opacity=".7"/><stop offset="1" stop-color="#7b5cc4" stop-opacity="0"/></linearGradient>
+  <g id="c22bloom"><path d="M0 0 C-5 -3 -7 -10 -2.8 -14 L0 -12 L2.8 -14 C7 -10 5 -3 0 0Z" transform="rotate(0)" fill="#ddd3ea"/><path d="M0 0 C-5 -3 -7 -10 -2.8 -14 L0 -12 L2.8 -14 C7 -10 5 -3 0 0Z" transform="rotate(72)" fill="#ddd3ea"/><path d="M0 0 C-5 -3 -7 -10 -2.8 -14 L0 -12 L2.8 -14 C7 -10 5 -3 0 0Z" transform="rotate(144)" fill="#ddd3ea"/><path d="M0 0 C-5 -3 -7 -10 -2.8 -14 L0 -12 L2.8 -14 C7 -10 5 -3 0 0Z" transform="rotate(216)" fill="#ddd3ea"/><path d="M0 0 C-5 -3 -7 -10 -2.8 -14 L0 -12 L2.8 -14 C7 -10 5 -3 0 0Z" transform="rotate(288)" fill="#ddd3ea"/><circle r="2.4" fill="#4a3a6a"/></g>
+  <path id="c22loose" d="M0 -6 C4 -5 5 2 0 6 C-5 2 -4 -5 0 -6Z" fill="#cfc3e0"/>
+</defs>
+<style>
+  .fall{transform-box:fill-box;transform-origin:center;animation:fall var(--d) linear infinite;animation-delay:var(--s);opacity:0}
+  @keyframes fall{0%{transform:translate(0,0) rotate(0deg);opacity:0}10%{opacity:.7}85%{opacity:.6}100%{transform:translate(var(--x),var(--y)) rotate(var(--r));opacity:0}}
+  .tw{animation:tw var(--d) ease-in-out infinite;animation-delay:var(--s)}
+  @keyframes tw{0%,100%{opacity:.15}50%{opacity:.75}}
+  @media (prefers-reduced-motion:reduce){.fall,.tw{animation:none}.fall{opacity:.55}}
+</style>
+<clipPath id="c22clip"><rect width="460" height="210" rx="12"/></clipPath>
+<g clip-path="url(#c22clip)">
+<rect width="460" height="210" fill="url(#c22sky)"/>
+<circle class="tw" cx="286.3" cy="34.5" r="1.19" fill="#e9e3f5" style="--d:6.4s;--s:-0.4s"/><circle class="tw" cx="246.4" cy="104.1" r="1.12" fill="#e9e3f5" style="--d:7.5s;--s:-6.8s"/><circle class="tw" cx="409.1" cy="101.2" r="0.49" fill="#e9e3f5" style="--d:8.1s;--s:-0.2s"/><circle class="tw" cx="406.8" cy="9.7" r="0.98" fill="#e9e3f5" style="--d:8.8s;--s:-1.2s"/><circle class="tw" cx="397.6" cy="116.4" r="0.53" fill="#e9e3f5" style="--d:8.1s;--s:-4.8s"/><circle class="tw" cx="456.6" cy="21.3" r="0.84" fill="#e9e3f5" style="--d:5.3s;--s:-5.7s"/><circle class="tw" cx="292.2" cy="54.8" r="0.91" fill="#e9e3f5" style="--d:7.6s;--s:-5.9s"/><circle class="tw" cx="442.9" cy="57.2" r="0.63" fill="#e9e3f5" style="--d:7.7s;--s:-6.3s"/><circle class="tw" cx="308.3" cy="82.8" r="1.22" fill="#e9e3f5" style="--d:4.3s;--s:-2.9s"/><circle class="tw" cx="263.3" cy="104.5" r="1.08" fill="#e9e3f5" style="--d:8.2s;--s:-2.5s"/><circle class="tw" cx="315.0" cy="9.5" r="0.41" fill="#e9e3f5" style="--d:7.2s;--s:-3.8s"/><circle class="tw" cx="381.8" cy="82.2" r="1.21" fill="#e9e3f5" style="--d:7.8s;--s:-5.4s"/>
+<text x="438" y="184" text-anchor="end" font-family="'Noto Serif JP','Yu Mincho','Hiragino Mincho ProN','MS Mincho',serif" font-size="62" fill="#ece6f4" opacity=".06">夜咲き</text>
+<g><path d="M467.0 -7.0 C425.0 17.0 385.0 11.0 351.0 32.0 C327.0 47.0 308.0 44.0 280.0 59.0" fill="none" stroke="#2c2140" stroke-width="4" stroke-linecap="round"/><path d="M398.0 17.0 C384.0 33.0 390.0 49.0 375.0 66.0" fill="none" stroke="#2c2140" stroke-width="1.5" stroke-linecap="round"/><path d="M351.0 32.0 C340.0 21.0 329.0 17.0 315.0 10.0" fill="none" stroke="#2c2140" stroke-width="1.5" stroke-linecap="round"/><path d="M308.0 46.0 C301.0 61.0 307.0 75.0 295.0 88.0" fill="none" stroke="#2c2140" stroke-width="1.5" stroke-linecap="round"/><use href="#c22bloom" transform="translate(280.0 59.0) scale(0.50) rotate(18)" opacity=".9"/><use href="#c22bloom" transform="translate(315.0 10.0) scale(0.42) rotate(33)" opacity=".9"/><use href="#c22bloom" transform="translate(375.0 66.0) scale(0.53) rotate(18)" opacity=".9"/><use href="#c22bloom" transform="translate(295.0 88.0) scale(0.40) rotate(40)" opacity=".9"/><use href="#c22bloom" transform="translate(344.0 30.0) scale(0.35) rotate(27)" opacity=".9"/><use href="#c22bloom" transform="translate(425.0 15.0) scale(0.38) rotate(41)" opacity=".9"/><use href="#c22bloom" transform="translate(386.0 48.0) scale(0.30) rotate(50)" opacity=".9"/></g>
+<g transform="translate(287 38) scale(0.75)"><use href="#c22loose" class="fall" style="--x:-267px;--y:222px;--r:443deg;--d:18.9s;--s:-6.8s"/></g><g transform="translate(286 0) scale(0.62)"><use href="#c22loose" class="fall" style="--x:-170px;--y:259px;--r:375deg;--d:12.4s;--s:-1.8s"/></g><g transform="translate(424 37) scale(0.82)"><use href="#c22loose" class="fall" style="--x:-249px;--y:211px;--r:421deg;--d:15.0s;--s:-3.3s"/></g>
+<rect width="3" height="210" fill="#7b5cc4" opacity=".8"/>
+</g>
+<rect x=".5" y=".5" width="459" height="209" rx="12" fill="none" stroke="#271d3a"/>
+<g font-family="'Segoe UI','gg sans','Noto Sans',Arial,sans-serif">
+  <text x="26" y="40" fill="#655c7a" font-size="10" letter-spacing="2.6">STAFF TRACKER</text>
+  <text x="26" y="73" fill="#ece6f4" font-size="24" font-weight="700">Night Bloom</text>
+  <g transform="translate(177.39200000000005 53) rotate(-3)"><rect width="24" height="24" rx="2.4000000000000004" fill="#a3122f"/><rect x="2.16" y="2.16" width="19.68" height="19.68" rx="1.44" fill="none" stroke="#f3dfe3" stroke-opacity=".55" stroke-width="1"/><text x="12" y="17.28" text-anchor="middle" font-family="'Noto Serif JP','Yu Mincho','Hiragino Mincho ProN','MS Mincho',serif" font-weight="700" font-size="14.879999999999999" fill="#f8eef0">咲</text></g>
+  <text x="26" y="94" fill="#655c7a" font-size="10.5" letter-spacing="2.4">YOZAKI · NIGHT-BLOOMING</text>
+  <text x="26" y="124" fill="#9d92b3" font-size="13.5">Staff points, activity and leaderboards,</text><text x="26" y="144" fill="#9d92b3" font-size="13.5">with a private control room.</text>
+  <rect x="26" y="168" width="408" height="1" fill="#271d3a"/>
+  <text x="26" y="192" fill="#b3a0d8" font-size="10" letter-spacing="2.6">VIEW PROJECT</text>
+  <text x="434" y="194" text-anchor="end" fill="#b3a0d8" font-size="16">→</text>
+</g>
+</svg>

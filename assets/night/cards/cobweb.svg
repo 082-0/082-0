@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="210" viewBox="0 0 460 210" role="img" aria-labelledby="c28t c28d">
+<title id="c28t">Cobweb Optimizer 巣</title><desc id="c28d">Aimed cobweb placement, slot restore and custom cobweb colors.</desc>
+<defs>
+  <linearGradient id="c28sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#040307"/><stop offset=".6" stop-color="#0d0817"/><stop offset="1" stop-color="#1a102e"/></linearGradient>
+  <radialGradient id="c28moonGlow"><stop offset="0" stop-color="#cbbcf0" stop-opacity=".22"/><stop offset="1" stop-color="#cbbcf0" stop-opacity="0"/></radialGradient>
+  <radialGradient id="c28moon" cx=".4" cy=".36"><stop offset="0" stop-color="#f1eef6"/><stop offset="1" stop-color="#cfc8de"/></radialGradient>
+  <linearGradient id="c28rule" gradientUnits="userSpaceOnUse" x1="0" x2="1000" y1="0" y2="0"><stop offset="0" stop-color="#7b5cc4" stop-opacity="0"/><stop offset=".5" stop-color="#7b5cc4" stop-opacity=".7"/><stop offset="1" stop-color="#7b5cc4" stop-opacity="0"/></linearGradient>
+  <g id="c28bloom"><path d="M0 0 C-5 -3 -7 -10 -2.8 -14 L0 -12 L2.8 -14 C7 -10 5 -3 0 0Z" transform="rotate(0)" fill="#ddd3ea"/><path d="M0 0 C-5 -3 -7 -10 -2.8 -14 L0 -12 L2.8 -14 C7 -10 5 -3 0 0Z" transform="rotate(72)" fill="#ddd3ea"/><path d="M0 0 C-5 -3 -7 -10 -2.8 -14 L0 -12 L2.8 -14 C7 -10 5 -3 0 0Z" transform="rotate(144)" fill="#ddd3ea"/><path d="M0 0 C-5 -3 -7 -10 -2.8 -14 L0 -12 L2.8 -14 C7 -10 5 -3 0 0Z" transform="rotate(216)" fill="#ddd3ea"/><path d="M0 0 C-5 -3 -7 -10 -2.8 -14 L0 -12 L2.8 -14 C7 -10 5 -3 0 0Z" transform="rotate(288)" fill="#ddd3ea"/><circle r="2.4" fill="#4a3a6a"/></g>
+  <path id="c28loose" d="M0 -6 C4 -5 5 2 0 6 C-5 2 -4 -5 0 -6Z" fill="#cfc3e0"/>
+</defs>
+<style>
+  .fall{transform-box:fill-box;transform-origin:center;animation:fall var(--d) linear infinite;animation-delay:var(--s);opacity:0}
+  @keyframes fall{0%{transform:translate(0,0) rotate(0deg);opacity:0}10%{opacity:.7}85%{opacity:.6}100%{transform:translate(var(--x),var(--y)) rotate(var(--r));opacity:0}}
+  .tw{animation:tw var(--d) ease-in-out infinite;animation-delay:var(--s)}
+  @keyframes tw{0%,100%{opacity:.15}50%{opacity:.75}}
+  @media (prefers-reduced-motion:reduce){.fall,.tw{animation:none}.fall{opacity:.55}}
+</style>
+<clipPath id="c28clip"><rect width="460" height="210" rx="12"/></clipPath>
+<g clip-path="url(#c28clip)">
+<rect width="460" height="210" fill="url(#c28sky)"/>
+<circle class="tw" cx="286.8" cy="103.1" r="1.29" fill="#e9e3f5" style="--d:7.5s;--s:-0.4s"/><circle class="tw" cx="358.3" cy="52.0" r="0.66" fill="#e9e3f5" style="--d:7.8s;--s:-1.5s"/><circle class="tw" cx="345.2" cy="115.0" r="1.27" fill="#e9e3f5" style="--d:6.7s;--s:-3.2s"/><circle class="tw" cx="360.0" cy="125.5" r="1.06" fill="#e9e3f5" style="--d:7.7s;--s:-3.8s"/><circle class="tw" cx="431.3" cy="37.9" r="0.55" fill="#e9e3f5" style="--d:5.3s;--s:-2.4s"/><circle class="tw" cx="376.3" cy="96.4" r="0.48" fill="#e9e3f5" style="--d:4.6s;--s:-3.3s"/><circle class="tw" cx="413.1" cy="46.1" r="0.71" fill="#e9e3f5" style="--d:5.8s;--s:-0.9s"/><circle class="tw" cx="336.3" cy="74.8" r="0.57" fill="#e9e3f5" style="--d:4.7s;--s:-5.3s"/><circle class="tw" cx="399.1" cy="125.4" r="0.64" fill="#e9e3f5" style="--d:6.0s;--s:-7.9s"/><circle class="tw" cx="262.1" cy="26.6" r="0.59" fill="#e9e3f5" style="--d:7.2s;--s:-3.5s"/><circle class="tw" cx="350.4" cy="29.5" r="0.68" fill="#e9e3f5" style="--d:5.7s;--s:-1.9s"/><circle class="tw" cx="259.2" cy="55.9" r="0.66" fill="#e9e3f5" style="--d:7.0s;--s:-4.4s"/>
+<text x="438" y="184" text-anchor="end" font-family="'Noto Serif JP','Yu Mincho','Hiragino Mincho ProN','MS Mincho',serif" font-size="110" fill="#ece6f4" opacity=".06">巣</text>
+<g><path d="M467.0 -7.0 C425.0 17.0 385.0 11.0 351.0 32.0 C327.0 47.0 308.0 44.0 280.0 59.0" fill="none" stroke="#2c2140" stroke-width="4" stroke-linecap="round"/><path d="M398.0 17.0 C384.0 33.0 390.0 49.0 375.0 66.0" fill="none" stroke="#2c2140" stroke-width="1.5" stroke-linecap="round"/><path d="M351.0 32.0 C340.0 21.0 329.0 17.0 315.0 10.0" fill="none" stroke="#2c2140" stroke-width="1.5" stroke-linecap="round"/><path d="M308.0 46.0 C301.0 61.0 307.0 75.0 295.0 88.0" fill="none" stroke="#2c2140" stroke-width="1.5" stroke-linecap="round"/><use href="#c28bloom" transform="translate(280.0 59.0) scale(0.50) rotate(18)" opacity=".9"/><use href="#c28bloom" transform="translate(315.0 10.0) scale(0.42) rotate(72)" opacity=".9"/><use href="#c28bloom" transform="translate(375.0 66.0) scale(0.53) rotate(26)" opacity=".9"/><use href="#c28bloom" transform="translate(295.0 88.0) scale(0.40) rotate(56)" opacity=".9"/><use href="#c28bloom" transform="translate(344.0 30.0) scale(0.35) rotate(27)" opacity=".9"/><use href="#c28bloom" transform="translate(425.0 15.0) scale(0.38) rotate(4)" opacity=".9"/><use href="#c28bloom" transform="translate(386.0 48.0) scale(0.30) rotate(20)" opacity=".9"/></g>
+<g transform="translate(287 9) scale(0.81)"><use href="#c28loose" class="fall" style="--x:-316px;--y:222px;--r:289deg;--d:15.5s;--s:-15.7s"/></g><g transform="translate(298 22) scale(0.98)"><use href="#c28loose" class="fall" style="--x:-194px;--y:251px;--r:289deg;--d:15.3s;--s:-16.1s"/></g><g transform="translate(405 43) scale(0.72)"><use href="#c28loose" class="fall" style="--x:-320px;--y:219px;--r:235deg;--d:15.1s;--s:-11.0s"/></g>
+<rect width="3" height="210" fill="#7b5cc4" opacity=".8"/>
+</g>
+<rect x=".5" y=".5" width="459" height="209" rx="12" fill="none" stroke="#271d3a"/>
+<g font-family="'Segoe UI','gg sans','Noto Sans',Arial,sans-serif">
+  <text x="26" y="40" fill="#655c7a" font-size="10" letter-spacing="2.6">FABRIC MOD</text>
+  <text x="26" y="73" fill="#ece6f4" font-size="24" font-weight="700">Cobweb Optimizer</text>
+  <g transform="translate(246.03199999999998 53) rotate(-3)"><rect width="24" height="24" rx="2.4000000000000004" fill="#a3122f"/><rect x="2.16" y="2.16" width="19.68" height="19.68" rx="1.44" fill="none" stroke="#f3dfe3" stroke-opacity=".55" stroke-width="1"/><text x="12" y="17.28" text-anchor="middle" font-family="'Noto Serif JP','Yu Mincho','Hiragino Mincho ProN','MS Mincho',serif" font-weight="700" font-size="14.879999999999999" fill="#f8eef0">巣</text></g>
+  <text x="26" y="94" fill="#655c7a" font-size="10.5" letter-spacing="2.4">SU · THE WEB</text>
+  <text x="26" y="124" fill="#9d92b3" font-size="13.5">Aimed cobweb placement, slot restore</text><text x="26" y="144" fill="#9d92b3" font-size="13.5">and custom cobweb colors.</text>
+  <rect x="26" y="168" width="408" height="1" fill="#271d3a"/>
+  <text x="26" y="192" fill="#b3a0d8" font-size="10" letter-spacing="2.6">VIEW PROJECT</text>
+  <text x="434" y="194" text-anchor="end" fill="#b3a0d8" font-size="16">→</text>
+</g>
+</svg>
