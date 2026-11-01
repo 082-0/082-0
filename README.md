@@ -21,7 +21,7 @@ Vibe coder. I build after dark: Discord bots that keep a server together, the da
   </tr>
   <tr>
     <td width="50%"><a href="https://github.com/082-0/shield-showcase"><img src="assets/night/cards/shield.svg" alt="Shield: anti-nuke, anti-bot, locked roles and bans that stay." width="100%" /></a></td>
-    <td width="50%"><img src="assets/night/cards/contact.svg" alt="Want a bot? None of these bots are public. Message meantforlove. on Discord." width="100%" /></td>
+    <td width="50%"><img src="assets/night/cards/contact.svg?v=2" alt="Want a bot? None of these bots are public. Message meantforlove. on Discord." width="100%" /></td>
   </tr>
 </table>
 
