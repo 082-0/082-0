@@ -8,7 +8,7 @@
 
 Vibe coder. I build after dark: Discord bots that keep a server together, the dashboards that run them, desktop apps that put my work on Discord, and a couple of Minecraft mods.
 
-**Want one of my bots in your server?** None of them are public. Message **`meantforlove`** on Discord.
+**Want one of my bots in your server?** None of them are public. Message **`meantforlove.`** on Discord.
 
 <img src="assets/night/divider.svg" alt="" width="100%" />
 
@@ -21,7 +21,7 @@ Vibe coder. I build after dark: Discord bots that keep a server together, the da
   </tr>
   <tr>
     <td width="50%"><a href="https://github.com/082-0/shield-showcase"><img src="assets/night/cards/shield.svg" alt="Shield: anti-nuke, anti-bot, locked roles and bans that stay." width="100%" /></a></td>
-    <td width="50%"><img src="assets/night/cards/contact.svg" alt="Want a bot? None of these bots are public. Message meantforlove on Discord." width="100%" /></td>
+    <td width="50%"><img src="assets/night/cards/contact.svg" alt="Want a bot? None of these bots are public. Message meantforlove. on Discord." width="100%" /></td>
   </tr>
 </table>
 
