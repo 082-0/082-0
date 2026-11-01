@@ -32,6 +32,9 @@ Vibe coder. I build after dark: Discord bots that keep a server together, the da
     <td width="50%"><a href="https://github.com/082-0/omp-presence"><img src="assets/night/cards/omp-presence.svg" alt="OMP Presence: your OMP project and model on Discord." width="100%" /></a></td>
     <td width="50%"><a href="https://github.com/082-0/08-codex-rpc"><img src="assets/night/cards/codex-rpc.svg" alt="08 Codex RPC: your Codex chat, model and reasoning level on Discord." width="100%" /></a></td>
   </tr>
+  <tr>
+    <td width="50%"><img src="assets/night/cards/glint.svg" alt="Glint, sneak peek: word-by-word lyrics and a glow that hits the beat, for Spotify and Apple Music. Windows first. Coming soon." width="100%" /></td>
+  </tr>
 </table>
 
 ### マイクラ <sub>MINECRAFT MODS</sub>

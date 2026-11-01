@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="210" viewBox="0 0 460 210" role="img" aria-labelledby="c41t c41d">
+<title id="c41t">Glint 輝</title><desc id="c41d">Sneak peek: word-by-word lyrics and a music-reactive edge light for Spotify and Apple Music. Windows first. Coming soon.</desc>
+<defs>
+  <linearGradient id="c41sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#040307"/><stop offset=".6" stop-color="#0d0817"/><stop offset="1" stop-color="#1a102e"/></linearGradient>
+  <linearGradient id="c41edge" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff6f9c"/><stop offset=".55" stop-color="#b06cff"/><stop offset="1" stop-color="#7b5cc4"/></linearGradient>
+  <filter id="c41blur" x="-5%" y="-10%" width="110%" height="120%"><feGaussianBlur stdDeviation="2.4"/></filter>
+</defs>
+<style>
+  .tw{animation:tw var(--d) ease-in-out infinite;animation-delay:var(--s)}
+  @keyframes tw{0%,100%{opacity:.15}50%{opacity:.75}}
+  .ln{stroke-dasharray:1;stroke-dashoffset:1;animation:ln 9s ease-out infinite;animation-delay:var(--s)}
+  @keyframes ln{0%{stroke-dashoffset:1;opacity:1}7%{stroke-dashoffset:0}78%{stroke-dashoffset:0;opacity:1}90%,100%{stroke-dashoffset:0;opacity:0}}
+  .st{transform-box:fill-box;transform-origin:center;animation:st 9s ease-out infinite;animation-delay:var(--s);opacity:0}
+  @keyframes st{0%{transform:scale(0);opacity:0}5%{transform:scale(1.35);opacity:1}9%{transform:scale(1)}78%{opacity:1}90%,100%{opacity:0}}
+  .halo{animation:halo 9s ease-out infinite;animation-delay:var(--s);opacity:0}
+  @keyframes halo{0%{opacity:0}5%,22%{opacity:1}30%,100%{opacity:0}}
+  .edge{animation:edge 4.2s ease-in-out infinite}
+  @keyframes edge{0%,100%{opacity:.35}50%{opacity:.75}}
+  @media (prefers-reduced-motion:reduce){.tw,.ln,.st,.halo,.edge{animation:none}.ln{stroke-dashoffset:0}.st,.halo{opacity:1}}
+</style>
+<clipPath id="c41clip"><rect width="460" height="210" rx="12"/></clipPath>
+<g clip-path="url(#c41clip)">
+<rect width="460" height="210" fill="url(#c41sky)"/>
+<circle class="tw" cx="286.5" cy="68.8" r="1.24" fill="#e9e3f5" style="--d:7.0s;--s:-0.4s"/><circle class="tw" cx="302.4" cy="15.1" r="0.89" fill="#e9e3f5" style="--d:5.1s;--s:-0.1s"/><circle class="tw" cx="262.2" cy="108.1" r="0.43" fill="#e9e3f5" style="--d:7.4s;--s:-5.7s"/><circle class="tw" cx="268.4" cy="67.6" r="1.02" fill="#e9e3f5" style="--d:8.2s;--s:-6.5s"/><circle class="tw" cx="414.5" cy="77.2" r="0.54" fill="#e9e3f5" style="--d:4.2s;--s:-7.6s"/><circle class="tw" cx="301.5" cy="121.8" r="1.11" fill="#e9e3f5" style="--d:7.5s;--s:-4.5s"/><circle class="tw" cx="237.6" cy="113.4" r="0.81" fill="#e9e3f5" style="--d:6.7s;--s:-7.4s"/><circle class="tw" cx="389.6" cy="3.0" r="1.05" fill="#e9e3f5" style="--d:6.2s;--s:-1.8s"/><circle class="tw" cx="353.7" cy="41.1" r="0.93" fill="#e9e3f5" style="--d:7.6s;--s:-1.4s"/><circle class="tw" cx="262.7" cy="2.5" r="1.28" fill="#e9e3f5" style="--d:7.7s;--s:-3.0s"/><circle class="tw" cx="447.7" cy="82.5" r="0.55" fill="#e9e3f5" style="--d:9.0s;--s:-6.9s"/><circle class="tw" cx="435.5" cy="69.0" r="0.94" fill="#e9e3f5" style="--d:7.4s;--s:-4.9s"/>
+<text x="438" y="184" text-anchor="end" font-family="'Noto Serif JP','Yu Mincho','Hiragino Mincho ProN','MS Mincho',serif" font-size="110" fill="#ece6f4" opacity=".06">輝</text>
+<g fill="none" stroke="#e9c9d6" stroke-width="1.1" stroke-linecap="round" opacity=".85"><path class="ln" pathLength="1" d="M258 62 L290 26" style="--s:0.55s"/><path class="ln" pathLength="1" d="M290 26 L326 70" style="--s:1.10s"/><path class="ln" pathLength="1" d="M326 70 L306 44" style="--s:1.65s"/><path class="ln" pathLength="1" d="M306 44 L350 18" style="--s:2.20s"/><path class="ln" pathLength="1" d="M350 18 L380 66" style="--s:2.75s"/><path class="ln" pathLength="1" d="M380 66 L410 32" style="--s:3.30s"/><path class="ln" pathLength="1" d="M410 32 L438 78" style="--s:3.85s"/></g><g fill="#efd3dd"><path class="st" d="M258 58.8 C258.5 61.5 258.5 61.5 261.2 62 C258.5 62.5 258.5 62.5 258 65.2 C257.5 62.5 257.5 62.5 254.8 62 C257.5 61.5 257.5 61.5 258 58.8Z" style="--s:0.00s"/><path class="st" d="M290 20.8 C290.8 25.2 290.8 25.2 295.2 26 C290.8 26.8 290.8 26.8 290 31.2 C289.2 26.8 289.2 26.8 284.8 26 C289.2 25.2 289.2 25.2 290 20.8Z" style="--s:0.55s"/><path class="st" d="M326 66.8 C326.5 69.5 326.5 69.5 329.2 70 C326.5 70.5 326.5 70.5 326 73.2 C325.5 70.5 325.5 70.5 322.8 70 C325.5 69.5 325.5 69.5 326 66.8Z" style="--s:1.10s"/><path class="st" d="M306 41.8 C306.4 43.6 306.4 43.6 308.2 44 C306.4 44.4 306.4 44.4 306 46.2 C305.6 44.4 305.6 44.4 303.8 44 C305.6 43.6 305.6 43.6 306 41.8Z" style="--s:1.65s"/><path class="st" d="M350 13.6 C350.7 17.3 350.7 17.3 354.4 18 C350.7 18.7 350.7 18.7 350 22.4 C349.3 18.7 349.3 18.7 345.6 18 C349.3 17.3 349.3 17.3 350 13.6Z" style="--s:2.20s"/><path class="st" d="M380 62.8 C380.5 65.5 380.5 65.5 383.2 66 C380.5 66.5 380.5 66.5 380 69.2 C379.5 66.5 379.5 66.5 376.8 66 C379.5 65.5 379.5 65.5 380 62.8Z" style="--s:2.75s"/><path class="st" d="M410 28.4 C410.6 31.4 410.6 31.4 413.6 32 C410.6 32.6 410.6 32.6 410 35.6 C409.4 32.6 409.4 32.6 406.4 32 C409.4 31.4 409.4 31.4 410 28.4Z" style="--s:3.30s"/><path class="st" d="M438 75.4 C438.4 77.6 438.4 77.6 440.6 78 C438.4 78.4 438.4 78.4 438 80.6 C437.6 78.4 437.6 78.4 435.4 78 C437.6 77.6 437.6 77.6 438 75.4Z" style="--s:3.85s"/></g><g class="halo" style="--s:3.30s"><circle cx="410" cy="32" r="9.5" fill="#0d0817" fill-opacity=".85" stroke="#e9c9d6" stroke-width=".9"/><path d="M410 26.6 C410.9 31.1 410.9 31.1 415.4 32 C410.9 32.9 410.9 32.9 410 37.4 C409.1 32.9 409.1 32.9 404.6 32 C409.1 31.1 409.1 31.1 410 26.6Z" fill="#fff1f5"/></g>
+<g class="edge"><rect x="1.5" y="1.5" width="457" height="207" rx="11" fill="none" stroke="url(#c41edge)" stroke-width="2.2" opacity=".55" filter="url(#c41blur)"/></g>
+<rect width="3" height="210" fill="#7b5cc4" opacity=".8"/>
+</g>
+<rect x=".5" y=".5" width="459" height="209" rx="12" fill="none" stroke="#271d3a"/>
+<g font-family="'Segoe UI','gg sans','Noto Sans',Arial,sans-serif">
+  <text x="26" y="40" fill="#655c7a" font-size="10" letter-spacing="2.6">DESKTOP APP · SNEAK PEEK</text>
+  <text x="26" y="73" fill="#ece6f4" font-size="24" font-weight="700">Glint</text>
+  <g transform="translate(94 53) rotate(-3)"><rect width="24" height="24" rx="2.4" fill="#a3122f"/><rect x="2.16" y="2.16" width="19.68" height="19.68" rx="1.44" fill="none" stroke="#f3dfe3" stroke-opacity=".55" stroke-width="1"/><text x="12" y="17.28" text-anchor="middle" font-family="'Noto Serif JP','Yu Mincho','Hiragino Mincho ProN','MS Mincho',serif" font-weight="700" font-size="14.88" fill="#f8eef0">輝</text></g>
+  <text x="26" y="94" fill="#655c7a" font-size="10.5" letter-spacing="2.4">KAGAYAKI · GLINT</text>
+  <text x="26" y="124" fill="#9d92b3" font-size="13.5">Word-by-word lyrics and a glow that hits the beat.</text><text x="26" y="144" fill="#9d92b3" font-size="13.5">Spotify and Apple Music · Windows first.</text>
+  <rect x="26" y="168" width="408" height="1" fill="#271d3a"/>
+  <text x="26" y="192" fill="#b3a0d8" font-size="10" letter-spacing="2.6">COMING SOON</text>
+  <text x="434" y="194" text-anchor="end" fill="#e9c9d6" font-size="15">✦</text>
+</g>
+</svg>
