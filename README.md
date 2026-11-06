@@ -17,7 +17,7 @@ Vibe coder. I build after dark: Discord bots that keep a server together, the da
 <table>
   <tr>
     <td width="50%"><a href="https://github.com/082-0/07-bot-showcase"><img src="assets/night/cards/sakura.svg" alt="Sakura: all-in-one server bot with setup, tickets, roles, logs and voice rooms." width="100%" /></a></td>
-    <td width="50%"><a href="https://github.com/082-0/midnight-staff-tracker-showcase"><img src="assets/night/cards/night-bloom.svg" alt="Night Bloom: staff points, activity and leaderboards with a private control room." width="100%" /></a></td>
+    <td width="50%"><a href="https://github.com/082-0/ledger-showcase"><img src="assets/night/cards/ledger.svg" alt="Ledger: staff points, activity and leaderboards with a private control room." width="100%" /></a></td>
   </tr>
   <tr>
     <td width="50%"><a href="https://github.com/082-0/shield-showcase"><img src="assets/night/cards/shield.svg" alt="Shield: anti-nuke, anti-bot, locked roles and bans that stay." width="100%" /></a></td>
