@@ -12,7 +12,7 @@ Vibe coder. I build after dark: Discord bots that keep a server together, the da
 
 <img src="assets/night/divider.svg" alt="" width="100%" />
 
-### ボット <sub>BOTS</sub>
+### 桜 · Bots
 
 <table>
   <tr>
@@ -28,7 +28,7 @@ Vibe coder. I build after dark: Discord bots that keep a server together, the da
   </tr>
 </table>
 
-### アプリ <sub>DESKTOP APPS</sub>
+### 桜 · Desktop Apps
 
 <table>
   <tr>
@@ -40,7 +40,7 @@ Vibe coder. I build after dark: Discord bots that keep a server together, the da
   </tr>
 </table>
 
-### マイクラ <sub>MINECRAFT MODS</sub>
+### 桜 · Minecraft Mods
 
 <table>
   <tr>
@@ -51,13 +51,13 @@ Vibe coder. I build after dark: Discord bots that keep a server together, the da
 
 <img src="assets/night/divider.svg" alt="" width="100%" />
 
-### 道具 <sub>SETUP</sub>
+### 桜 · Setup
 
 I work with **Codex, OMP and Tern**: idea, code, test, ship, repeat. [OMP Presence](https://github.com/082-0/omp-presence) shows my OMP work on Discord; [08 Codex RPC](https://github.com/082-0/08-codex-rpc) does the same for Codex.
 
 `Discord bots` · `Web dashboards` · `Desktop apps` · `Fabric mods`
 
-### 夜の散歩 <sub>AFTER HOURS</sub>
+### 桜 · After Hours
 
 <img src="https://raw.githubusercontent.com/082-0/082-0/output/github-snake.svg" alt="A violet snake moving through my GitHub contributions" width="100%" />
 
