@@ -8,7 +8,7 @@
 
 **✦ 桜 · 16-year-old developer.** Discord bots that keep a server together, the dashboards that run them, desktop apps that put my work on Discord, and a couple of Minecraft mods.
 
-**Want one of my bots in your server, or the source code of [Shield](https://github.com/082-0/shield-showcase) or [Haven](https://github.com/082-0/haven-showcase) to use or buy?** None of them are public. Message **`meantforlove.`** on Discord.
+**Want one of my bots in your server, or the source code of [Shield](https://github.com/082-0/shield-showcase) or [Haven](https://github.com/082-0/haven-showcase) to use or buy?** All my projects will soon be on [BuiltByBit](https://builtbybit.com/members/thechosenones.987871/). Until they are listed, message **`meantforlove.`** on Discord.
 
 <img src="assets/night/divider.svg" alt="" width="100%" />
 
