@@ -6,7 +6,7 @@
 
 <br />
 
-Vibe coder. I build after dark: Discord bots that keep a server together, the dashboards that run them, desktop apps that put my work on Discord, and a couple of Minecraft mods.
+**✦ 桜 · 16-year-old developer.** Discord bots that keep a server together, the dashboards that run them, desktop apps that put my work on Discord, and a couple of Minecraft mods.
 
 **Want one of my bots in your server, or the source code of [Shield](https://github.com/082-0/shield-showcase) or [Haven](https://github.com/082-0/haven-showcase) to use or buy?** None of them are public. Message **`meantforlove.`** on Discord.
 
@@ -63,4 +63,4 @@ I work with **Codex, OMP and Tern**: idea, code, test, ship, repeat. [OMP Presen
 
 <sub>Bot pages show demo data only. Bot source code and server data stay private.</sub>
 
-<img src="assets/night/footer.svg" alt="夜に作る · built after dark" width="100%" />
+<img src="assets/night/footer.svg" alt="桜 · 16-year-old developer" width="100%" />
